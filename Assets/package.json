@@ -1,0 +1,26 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "README Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graciaan/README-GENERATOR.git"
+  },
+  "keywords": [
+    "README",
+    "Generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/graciaan/README-GENERATOR/issues"
+  },
+  "homepage": "https://github.com/graciaan/README-GENERATOR#readme"
+}
