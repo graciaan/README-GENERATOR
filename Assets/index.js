@@ -8,7 +8,37 @@ const questions = [
   {
     name: 'projectName',
     message: 'What is the name of your project?',
-    type: 'input'
+    type: 'text'
+  },
+  
+  {
+    name: 'projectDetails',
+    message: 'Please provide details on what the project is about:',
+    type: 'text'
+  },
+  
+  {
+    name: 'projectInstructions',
+    message: 'Please provide instructions on how to use the application',
+    type: 'text'
+  },
+
+  {
+    name: 'projectLink',
+    message: 'Please provide link to completed project',
+    type: 'text'
+  },
+
+  {
+    name: 'projectContributors',
+    message: 'Please list any contributors to your project',
+    type: 'text'
+  },
+
+  {
+    name: 'projectScreenshot',
+    message: 'Please include a link to a screenshot of the project',
+    type: 'text'
   }
 ];
 
