@@ -34,7 +34,7 @@ function generateMarkdown(data) {
   ${data.projectInstructions}
 
   ## Project Link
-  ![Link](${data.projectLink})
+  [Link to Project](${data.projectLink})
 
   ## Contributor List
   ${data.projectContributors}
