@@ -11,5 +11,8 @@ Once you run the index.js file in your terminal, it will ask you a series of que
 
 ![Generator Screenshot](./Assets/images/README-Screenshot.jpg)
 
+
+[Link to video showing application functionality](https://drive.google.com/file/d/1hCsWxO6snqQhb7LqHoZKj5bcU1HY5MXW/view)
+
 This README Generator was created without any license and is free to use by anyone!
 
